@@ -1,0 +1,1 @@
+C:\tutoriales\NetMaui\netMauiCrearNotas\Notes\Notes\Notes.csproj;x64
