@@ -6,6 +6,18 @@ C:\tutoriales\NetMaui\netMauiCrearNotas\Notes\Notes\bin\Debug\net7.0-windows10.0
 C:\tutoriales\NetMaui\netMauiCrearNotas\Notes\Notes\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Notes.pdb
 C:\tutoriales\NetMaui\netMauiCrearNotas\Notes\Notes\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri
 C:\tutoriales\NetMaui\netMauiCrearNotas\Notes\Notes\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml
+C:\tutoriales\NetMaui\netMauiCrearNotas\Notes\Notes\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\FirebaseAdmin.dll
+C:\tutoriales\NetMaui\netMauiCrearNotas\Notes\Notes\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\FireSharp.dll
+C:\tutoriales\NetMaui\netMauiCrearNotas\Notes\Notes\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Google.Api.Gax.dll
+C:\tutoriales\NetMaui\netMauiCrearNotas\Notes\Notes\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Google.Api.Gax.Rest.dll
+C:\tutoriales\NetMaui\netMauiCrearNotas\Notes\Notes\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Google.Apis.dll
+C:\tutoriales\NetMaui\netMauiCrearNotas\Notes\Notes\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Google.Apis.Auth.PlatformServices.dll
+C:\tutoriales\NetMaui\netMauiCrearNotas\Notes\Notes\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Google.Apis.Auth.dll
+C:\tutoriales\NetMaui\netMauiCrearNotas\Notes\Notes\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Google.Apis.Core.dll
+C:\tutoriales\NetMaui\netMauiCrearNotas\Notes\Notes\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\tutoriales\NetMaui\netMauiCrearNotas\Notes\Notes\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Threading.Tasks.Extensions.dll
+C:\tutoriales\NetMaui\netMauiCrearNotas\Notes\Notes\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Threading.Tasks.dll
+C:\tutoriales\NetMaui\netMauiCrearNotas\Notes\Notes\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Bcl.AsyncInterfaces.dll
 C:\tutoriales\NetMaui\netMauiCrearNotas\Notes\Notes\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.dll
 C:\tutoriales\NetMaui\netMauiCrearNotas\Notes\Notes\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Abstractions.dll
 C:\tutoriales\NetMaui\netMauiCrearNotas\Notes\Notes\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.dll
@@ -18,6 +30,8 @@ C:\tutoriales\NetMaui\netMauiCrearNotas\Notes\Notes\bin\Debug\net7.0-windows10.0
 C:\tutoriales\NetMaui\netMauiCrearNotas\Notes\Notes\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.Interop.dll
 C:\tutoriales\NetMaui\netMauiCrearNotas\Notes\Notes\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.dll
 C:\tutoriales\NetMaui\netMauiCrearNotas\Notes\Notes\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll
+C:\tutoriales\NetMaui\netMauiCrearNotas\Notes\Notes\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Http.Extensions.dll
+C:\tutoriales\NetMaui\netMauiCrearNotas\Notes\Notes\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Http.Primitives.dll
 C:\tutoriales\NetMaui\netMauiCrearNotas\Notes\Notes\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.InteractiveExperiences.Projection.dll
 C:\tutoriales\NetMaui\netMauiCrearNotas\Notes\Notes\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WinUI.dll
 C:\tutoriales\NetMaui\netMauiCrearNotas\Notes\Notes\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppLifecycle.Projection.dll
@@ -32,6 +46,7 @@ C:\tutoriales\NetMaui\netMauiCrearNotas\Notes\Notes\bin\Debug\net7.0-windows10.0
 C:\tutoriales\NetMaui\netMauiCrearNotas\Notes\Notes\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
 C:\tutoriales\NetMaui\netMauiCrearNotas\Notes\Notes\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Widgets.Projection.dll
 C:\tutoriales\NetMaui\netMauiCrearNotas\Notes\Notes\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+C:\tutoriales\NetMaui\netMauiCrearNotas\Notes\Notes\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Newtonsoft.Json.dll
 C:\tutoriales\NetMaui\netMauiCrearNotas\Notes\Notes\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.dll
 C:\tutoriales\NetMaui\netMauiCrearNotas\Notes\Notes\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.dll
 C:\tutoriales\NetMaui\netMauiCrearNotas\Notes\Notes\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.CSharp.dll
@@ -295,6 +310,10 @@ C:\tutoriales\NetMaui\netMauiCrearNotas\Notes\Notes\obj\Debug\net7.0-windows10.0
 C:\tutoriales\NetMaui\netMauiCrearNotas\Notes\Notes\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png
 C:\tutoriales\NetMaui\netMauiCrearNotas\Notes\Notes\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png
 C:\tutoriales\NetMaui\netMauiCrearNotas\Notes\Notes\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png
+C:\tutoriales\NetMaui\netMauiCrearNotas\Notes\Notes\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_about.scale-100.png
+C:\tutoriales\NetMaui\netMauiCrearNotas\Notes\Notes\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_about_ios.scale-100.png
+C:\tutoriales\NetMaui\netMauiCrearNotas\Notes\Notes\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_notes.scale-100.png
+C:\tutoriales\NetMaui\netMauiCrearNotas\Notes\Notes\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_notes_ios.scale-100.png
 C:\tutoriales\NetMaui\netMauiCrearNotas\Notes\Notes\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
 C:\tutoriales\NetMaui\netMauiCrearNotas\Notes\Notes\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Notes.AssemblyInfoInputs.cache
 C:\tutoriales\NetMaui\netMauiCrearNotas\Notes\Notes\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Notes.AssemblyInfo.cs
@@ -322,7 +341,3 @@ C:\tutoriales\NetMaui\netMauiCrearNotas\Notes\Notes\obj\Debug\net7.0-windows10.0
 C:\tutoriales\NetMaui\netMauiCrearNotas\Notes\Notes\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\tutoriales\NetMaui\netMauiCrearNotas\Notes\Notes\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 C:\tutoriales\NetMaui\netMauiCrearNotas\Notes\Notes\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
-C:\tutoriales\NetMaui\netMauiCrearNotas\Notes\Notes\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_about.scale-100.png
-C:\tutoriales\NetMaui\netMauiCrearNotas\Notes\Notes\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_about_ios.scale-100.png
-C:\tutoriales\NetMaui\netMauiCrearNotas\Notes\Notes\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_notes.scale-100.png
-C:\tutoriales\NetMaui\netMauiCrearNotas\Notes\Notes\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_notes_ios.scale-100.png

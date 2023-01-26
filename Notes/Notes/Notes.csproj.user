@@ -3,10 +3,16 @@
   <PropertyGroup>
     <IsFirstTimeProjectOpen>False</IsFirstTimeProjectOpen>
     <ActiveDebugFramework>net7.0-android</ActiveDebugFramework>
-    <ActiveDebugProfile>Pixel 4 API 28 (Android 9.0 - API 28)</ActiveDebugProfile>
+    <ActiveDebugProfile>LGE LG-M710 (Android 7.0 - API 24)</ActiveDebugProfile>
+    <SelectedPlatformGroup>PhysicalDevice</SelectedPlatformGroup>
+    <DefaultDevice>Pixel_4_API_28</DefaultDevice>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Debug|net7.0-android|AnyCPU'">
     <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(TargetPlatformIdentifier)'=='iOS'">
+    <RuntimeIdentifier>ios-arm64</RuntimeIdentifier>
+    <PlatformTarget>arm64</PlatformTarget>
   </PropertyGroup>
   <ItemGroup>
     <MauiXaml Update="Vistas\AboutPage.xaml">

@@ -1,10 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "ySUye/pKs+QlYRwvfrk/tAKoVoHja+4qNuJDTsRuGCn+9mmxVXGrvPVUSVFIEODIvSnzfTqqyTk4QYHZB1y1nQ==",
+  "dgSpecHash": "PCyWBCcfOIGzj05/TFsDNsQHYLpFUpCwHJoD+Zpa7lqe5rwTCElhN04lC1cDoGe3OHrxRxVefMCpmJBOzOypAA==",
   "success": true,
   "projectFilePath": "C:\\tutoriales\\NetMaui\\netMauiCrearNotas\\Notes\\Notes\\Notes.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ELADIO\\.nuget\\packages\\firebaseadmin\\2.3.0\\firebaseadmin.2.3.0.nupkg.sha512",
+    "C:\\Users\\ELADIO\\.nuget\\packages\\firesharp\\2.0.4\\firesharp.2.0.4.nupkg.sha512",
+    "C:\\Users\\ELADIO\\.nuget\\packages\\google.api.gax\\3.2.0\\google.api.gax.3.2.0.nupkg.sha512",
+    "C:\\Users\\ELADIO\\.nuget\\packages\\google.api.gax.rest\\3.2.0\\google.api.gax.rest.3.2.0.nupkg.sha512",
+    "C:\\Users\\ELADIO\\.nuget\\packages\\google.apis\\1.49.0\\google.apis.1.49.0.nupkg.sha512",
+    "C:\\Users\\ELADIO\\.nuget\\packages\\google.apis.auth\\1.49.0\\google.apis.auth.1.49.0.nupkg.sha512",
+    "C:\\Users\\ELADIO\\.nuget\\packages\\google.apis.core\\1.49.0\\google.apis.core.1.49.0.nupkg.sha512",
     "C:\\Users\\ELADIO\\.nuget\\packages\\googlegson\\2.9.1.1\\googlegson.2.9.1.1.nupkg.sha512",
+    "C:\\Users\\ELADIO\\.nuget\\packages\\microsoft.bcl\\1.1.9\\microsoft.bcl.1.1.9.nupkg.sha512",
+    "C:\\Users\\ELADIO\\.nuget\\packages\\microsoft.bcl.async\\1.0.168\\microsoft.bcl.async.1.0.168.nupkg.sha512",
+    "C:\\Users\\ELADIO\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
+    "C:\\Users\\ELADIO\\.nuget\\packages\\microsoft.bcl.build\\1.0.14\\microsoft.bcl.build.1.0.14.nupkg.sha512",
     "C:\\Users\\ELADIO\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\ELADIO\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\ELADIO\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
@@ -17,8 +28,11 @@
     "C:\\Users\\ELADIO\\.nuget\\packages\\microsoft.graphics.win2d\\1.0.4\\microsoft.graphics.win2d.1.0.4.nupkg.sha512",
     "C:\\Users\\ELADIO\\.nuget\\packages\\microsoft.maui.graphics\\7.0.58\\microsoft.maui.graphics.7.0.58.nupkg.sha512",
     "C:\\Users\\ELADIO\\.nuget\\packages\\microsoft.maui.graphics.win2d.winui.desktop\\7.0.58\\microsoft.maui.graphics.win2d.winui.desktop.7.0.58.nupkg.sha512",
+    "C:\\Users\\ELADIO\\.nuget\\packages\\microsoft.net.http\\2.2.28\\microsoft.net.http.2.2.28.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages\\microsoft.windows.sdk.buildtools\\10.0.22621.755\\microsoft.windows.sdk.buildtools.10.0.22621.755.nupkg.sha512",
     "C:\\Users\\ELADIO\\.nuget\\packages\\microsoft.windowsappsdk\\1.2.221116.1\\microsoft.windowsappsdk.1.2.221116.1.nupkg.sha512",
+    "C:\\Users\\ELADIO\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\ELADIO\\.nuget\\packages\\system.collections.immutable\\1.7.1\\system.collections.immutable.1.7.1.nupkg.sha512",
     "C:\\Users\\ELADIO\\.nuget\\packages\\xamarin.android.glide\\4.13.2.2\\xamarin.android.glide.4.13.2.2.nupkg.sha512",
     "C:\\Users\\ELADIO\\.nuget\\packages\\xamarin.android.glide.annotations\\4.13.2.2\\xamarin.android.glide.annotations.4.13.2.2.nupkg.sha512",
     "C:\\Users\\ELADIO\\.nuget\\packages\\xamarin.android.glide.disklrucache\\4.13.2.2\\xamarin.android.glide.disklrucache.4.13.2.2.nupkg.sha512",
@@ -105,5 +119,46 @@
     "C:\\Users\\ELADIO\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\7.0.2\\microsoft.windowsdesktop.app.runtime.win-x64.7.0.2.nupkg.sha512",
     "C:\\Users\\ELADIO\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\7.0.2\\microsoft.netcore.app.runtime.win-x64.7.0.2.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"FireSharp 2.0.4\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net7.0-ios16.1\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "libraryId": "FireSharp",
+      "targetGraphs": [
+        "net7.0-ios16.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"Microsoft.Bcl 1.1.9\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net7.0-ios16.1\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "libraryId": "Microsoft.Bcl",
+      "targetGraphs": [
+        "net7.0-ios16.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"Microsoft.Bcl.Async 1.0.168\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net7.0-ios16.1\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "libraryId": "Microsoft.Bcl.Async",
+      "targetGraphs": [
+        "net7.0-ios16.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"Microsoft.Net.Http 2.2.28\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net7.0-ios16.1\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "libraryId": "Microsoft.Net.Http",
+      "targetGraphs": [
+        "net7.0-ios16.1"
+      ]
+    }
+  ]
 }

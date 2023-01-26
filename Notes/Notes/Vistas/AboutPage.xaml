@@ -3,7 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:models="clr-namespace:Notes.Modelos"
              x:Class="Notes.Vistas.AboutPage"
-             Title="AboutPage">
+             Title="Acerca De...">
     <ContentPage.BindingContext>
         <models:About />
     </ContentPage.BindingContext>

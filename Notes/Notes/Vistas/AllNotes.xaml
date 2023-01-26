@@ -2,7 +2,7 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Notes.Vistas.AllNotesPage"
-             Title="Your Notes">
+             Title="Mis Notas">
     <!-- Add an item to the toolbar -->
     <ContentPage.ToolbarItems>
         <ToolbarItem Text="Add" Clicked="Add_Clicked" IconImageSource="{FontImage Glyph='+', Color=White, Size=22}" />
@@ -15,17 +15,18 @@
                         SelectionMode="Single"
                         SelectionChanged="notesCollection_SelectionChanged">
 
-        <!-- Designate how the collection of items are laid out -->
+        <!-- Define orientacion y espaciado -->
         <CollectionView.ItemsLayout>
             <LinearItemsLayout Orientation="Vertical" ItemSpacing="10" />
         </CollectionView.ItemsLayout>
 
-        <!-- Define the appearance of each item in the list -->
+        <!-- Define la apariencia y como sera dibujado -->
         <CollectionView.ItemTemplate>
             <DataTemplate>
                 <StackLayout>
-                    <Label Text="{Binding Text}" FontSize="22"/>
-                    <Label Text="{Binding Date}" FontSize="14" TextColor="Silver"/>
+                    <Label Text="{Binding Titulo}" FontSize="22"/>
+                    <!--<Label Text="{Binding Text}" FontSize="17"/>-->
+                    <Label Text="{Binding Date}" FontSize="16" TextColor="Silver"/>
                 </StackLayout>
             </DataTemplate>
         </CollectionView.ItemTemplate>

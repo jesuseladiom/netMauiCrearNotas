@@ -604,6 +604,42 @@
     <AppxPackagedFile Include="C:\Users\ELADIO\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.28\lib\net6.0\WinRT.Runtime.dll">
       <PackagePath>WinRT.Runtime.dll</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ELADIO\.nuget\packages\firebaseadmin\2.3.0\lib\netstandard2.0\FirebaseAdmin.dll">
+      <PackagePath>FirebaseAdmin.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ELADIO\.nuget\packages\firesharp\2.0.4\lib\portable-net45+sl5+wp8+win8\FireSharp.dll">
+      <PackagePath>FireSharp.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ELADIO\.nuget\packages\google.api.gax\3.2.0\lib\netstandard2.0\Google.Api.Gax.dll">
+      <PackagePath>Google.Api.Gax.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ELADIO\.nuget\packages\google.api.gax.rest\3.2.0\lib\netstandard2.0\Google.Api.Gax.Rest.dll">
+      <PackagePath>Google.Api.Gax.Rest.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ELADIO\.nuget\packages\google.apis\1.49.0\lib\netstandard2.0\Google.Apis.dll">
+      <PackagePath>Google.Apis.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ELADIO\.nuget\packages\google.apis.auth\1.49.0\lib\netstandard2.0\Google.Apis.Auth.PlatformServices.dll">
+      <PackagePath>Google.Apis.Auth.PlatformServices.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ELADIO\.nuget\packages\google.apis.auth\1.49.0\lib\netstandard2.0\Google.Apis.Auth.dll">
+      <PackagePath>Google.Apis.Auth.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ELADIO\.nuget\packages\google.apis.core\1.49.0\lib\netstandard2.0\Google.Apis.Core.dll">
+      <PackagePath>Google.Apis.Core.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ELADIO\.nuget\packages\microsoft.bcl.async\1.0.168\lib\net40\Microsoft.Threading.Tasks.Extensions.Desktop.dll">
+      <PackagePath>Microsoft.Threading.Tasks.Extensions.Desktop.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ELADIO\.nuget\packages\microsoft.bcl.async\1.0.168\lib\net40\Microsoft.Threading.Tasks.Extensions.dll">
+      <PackagePath>Microsoft.Threading.Tasks.Extensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ELADIO\.nuget\packages\microsoft.bcl.async\1.0.168\lib\net40\Microsoft.Threading.Tasks.dll">
+      <PackagePath>Microsoft.Threading.Tasks.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ELADIO\.nuget\packages\microsoft.bcl.asyncinterfaces\1.0.0\lib\netstandard2.1\Microsoft.Bcl.AsyncInterfaces.dll">
+      <PackagePath>Microsoft.Bcl.AsyncInterfaces.dll</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ELADIO\.nuget\packages\microsoft.extensions.configuration\7.0.0\lib\net7.0\Microsoft.Extensions.Configuration.dll">
       <PackagePath>Microsoft.Extensions.Configuration.dll</PackagePath>
     </AppxPackagedFile>
@@ -639,6 +675,12 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ELADIO\.nuget\packages\microsoft.maui.graphics.win2d.winui.desktop\7.0.58\lib\net7.0-windows10.0.19041\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll">
       <PackagePath>Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ELADIO\.nuget\packages\microsoft.net.http\2.2.28\lib\net45\System.Net.Http.Extensions.dll">
+      <PackagePath>System.Net.Http.Extensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ELADIO\.nuget\packages\microsoft.net.http\2.2.28\lib\net45\System.Net.Http.Primitives.dll">
+      <PackagePath>System.Net.Http.Primitives.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ELADIO\.nuget\packages\microsoft.windowsappsdk\1.2.221116.1\lib\net6.0-windows10.0.18362.0\Microsoft.InteractiveExperiences.Projection.dll">
       <PackagePath>Microsoft.InteractiveExperiences.Projection.dll</PackagePath>
@@ -681,6 +723,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ELADIO\.nuget\packages\microsoft.windowsappsdk\1.2.221116.1\lib\net6.0-windows10.0.18362.0\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll">
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.Net.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ELADIO\.nuget\packages\newtonsoft.json\12.0.3\lib\netstandard2.0\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ELADIO\.nuget\packages\microsoft.graphics.win2d\1.0.4\runtimes\win10-x64\native\Microsoft.Graphics.Canvas.dll">
       <PackagePath>Microsoft.Graphics.Canvas.dll</PackagePath>

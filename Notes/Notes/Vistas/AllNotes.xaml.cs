@@ -2,6 +2,8 @@ namespace Notes.Vistas;
 
 public partial class AllNotesPage : ContentPage
 {
+    
+
     public AllNotesPage()
     {
         InitializeComponent();
@@ -9,9 +11,11 @@ public partial class AllNotesPage : ContentPage
         BindingContext = new Modelos.AllNotes();
     }
 
+
+
     protected override void OnAppearing()
     {
-        ((Modelos.AllNotes)BindingContext).LoadNotes();
+        ((Modelos.AllNotes)BindingContext).LoadNotes2();
     }
 
     private async void Add_Clicked(object sender, EventArgs e)
@@ -27,7 +31,7 @@ public partial class AllNotesPage : ContentPage
             var note = (Modelos.Note)e.CurrentSelection[0];
 
             // Should navigate to "NotePage?ItemId=path\on\device\XYZ.notes.txt"
-            await Shell.Current.GoToAsync($"{nameof(NotePage)}?{nameof(NotePage.ItemId)}={note.Filename}");
+            await Shell.Current.GoToAsync($"{nameof(NotePage)}?{nameof(NotePage.ItemId)}={note.Titulo}");
 
             // Unselect the UI
             notesCollection.SelectedItem = null;
